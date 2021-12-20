@@ -1,0 +1,25 @@
+/* HEADER */
+.nav-item {
+	background-color: #6CCF09;
+}
+/* END HEADER */
+h1 {
+	color: #6CCF09;
+}
+#body-text {
+	height: 1000px;
+	width: auto;
+	margin: 30px;
+	background-color: #6CCF09;
+	padding: 0px;
+
+}
+#section {
+	background-color: #09CF2A;
+	font-size: 1.5em;
+	color: #ffff;
+}
+
+.container-fluid p {
+	padding: 12px;
+}
